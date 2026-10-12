@@ -1,0 +1,134 @@
+[
+  {
+    "id": "canva-1",
+    "company": "Canva",
+    "title": "Canva | Social Proof",
+    "industry": "Design Software",
+    "adType": "Stats; Social Proof",
+    "adFormat": "Image",
+    "image": "assets/creatives/0.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1Ce5rhuttEQ6fVpv5wMcxkqk3AzBrBHtt/view?usp=drive_link"
+  },
+  {
+    "id": "canva-2",
+    "company": "Canva",
+    "title": "Canva | Social Proof",
+    "industry": "Design Software",
+    "adType": "Social Proof",
+    "adFormat": "Image",
+    "image": "assets/creatives/1.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1nUTc6qIm_w6ZPJ-URitSe83QHS8vjsdA/view?usp=drive_link"
+  },
+  {
+    "id": "click-up-3",
+    "company": "Click Up",
+    "title": "Click Up | Demo",
+    "industry": "Project Management Software",
+    "adType": "Demo CTA",
+    "adFormat": "Image",
+    "image": "assets/creatives/2.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1IqYfiUIu4fP9tCKz5_6PrNkU8kB4mk2m/view?usp=drive_link"
+  },
+  {
+    "id": "click-up-4",
+    "company": "Click Up",
+    "title": "Click Up | Demo",
+    "industry": "Project Management Software",
+    "adType": "Demo CTA",
+    "adFormat": "Image",
+    "image": "assets/creatives/3.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1r4d8jNDwWAXrRcTAEoP_-Hr_YXdWEAis/view?usp=drive_link"
+  },
+  {
+    "id": "wonderkind-5",
+    "company": "Wonderkind",
+    "title": "Wonderkind | Slack Convo",
+    "industry": "HR / Recruiting",
+    "adType": "Slack Convo",
+    "adFormat": "Image",
+    "image": "assets/creatives/4.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/10A8Nsc_rFWKYskZmSuhSbWxBddzvI1Zz/view?usp=drive_link"
+  },
+  {
+    "id": "dashlane-6",
+    "company": "Dashlane",
+    "title": "Dashlane | Bullet Points",
+    "industry": "Cybersecurity",
+    "adType": "Bullet Points",
+    "adFormat": "Image",
+    "image": "assets/creatives/5.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1-OZMDKRfzYR5kwuBGeSP3NGV3JFkrZCs/view?usp=drive_link"
+  },
+  {
+    "id": "front-7",
+    "company": "Front",
+    "title": "Front | Demand Gen",
+    "industry": "Customer Success",
+    "adType": "Demand Gen",
+    "adFormat": "Image",
+    "image": "assets/creatives/6.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/17rDLbI7h4ApMBIN9I_28vuj9OS_FdpaO/view?usp=drive_link"
+  },
+  {
+    "id": "jasper-8",
+    "company": "Jasper",
+    "title": "Jasper | Social Proof",
+    "industry": "AI; Martech",
+    "adType": "Social Proof",
+    "adFormat": "Image",
+    "image": "assets/creatives/7.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1Vt-KjbeMefH-r_K8W7vVBK51wc2Tt0Aw/view?usp=drive_link"
+  },
+  {
+    "id": "jasper-9",
+    "company": "Jasper",
+    "title": "Jasper | Us Vs. Them",
+    "industry": "Martech; AI",
+    "adType": "Us Vs. Them",
+    "adFormat": "Image",
+    "image": "assets/creatives/8.webp",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1VbGSGxinfksrtSDi9rO0GctezbRMROON/view?usp=drive_link"
+  },
+  {
+    "id": "jasper-10",
+    "company": "Jasper",
+    "title": "Jasper | Us Vs. Them",
+    "industry": "Martech; AI",
+    "adType": "Us Vs. Them",
+    "adFormat": "Image",
+    "image": "https://codaio.imgix.net/docs/hDGblTqLJQ/blobs/bl-YH3KYO9xpW/a4ea2cf704d1df043925f1f733970a4f324c4d5a8748a276ea9b30c75557e34a662673c63cae80e1ea22d4e39204e7b4f9695d644eceb828e05a4226de5e8523b978951a661f11260c1db7d693c200d013d40e218950b6939d01f474564371e3568b4c50?auto=format%2Ccompress&fit=max&w=800&h=800",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1XV8Ia8GlLqsnC2ac6SPzwLsqaeUqUtRB/view?usp=drive_link"
+  },
+  {
+    "id": "knak-11",
+    "company": "Knak",
+    "title": "Knak | 1 to 1 ABM",
+    "industry": "Martech",
+    "adType": "1-to-1 ABM; Text Convo",
+    "adFormat": "Image",
+    "image": "https://codaio.imgix.net/docs/hDGblTqLJQ/blobs/bl-BM2lt3Axak/02ee800c655b594ae36db409e338b102f3d2eb4974528bbbe7f5839c1b5b8fc824eef2bc56825d3b6610df2804ca78634b8dc55e9144cd78dbbd46b4d4ea8f38fb53dc436442e0cb5cdc592bf70a3c1242da6334b7d920f3a55d477e1f1455e4907b6d8d?auto=format%2Ccompress&fit=max&w=800&h=800",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/1AyZ2QKH9e5xbSx1rpkCRoRQWjVMsWvT3/view?usp=drive_link"
+  },
+  {
+    "id": "zapier-12",
+    "company": "Zapier",
+    "title": "Zapier | Before & After",
+    "industry": "Automation",
+    "adType": "Before & After",
+    "adFormat": "Image",
+    "image": "https://codaio.imgix.net/docs/hDGblTqLJQ/blobs/bl-zyw6w6PyCQ/1d307be8a16d62bd85c115ceafbd7a1fe0e9e813ba27096ca30ce4947bb25146325f8eba74c94e506ab24b7445d1e45a3d82a3266e00efbf9f883e7556191ed3e5192213f1933139ef17cdc3cb7dc3459a7ee38f21f799856ccf3c46f8a95a28abcb95a8?auto=format%2Ccompress&fit=max&w=800&h=800",
+    "notes": "",
+    "sourceUrl": "https://drive.google.com/file/d/13gnWoHC2M_sZZA6WoNsE413xuG6ZSvck/view?usp=drive_link"
+  }
+]

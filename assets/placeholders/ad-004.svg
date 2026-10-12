@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="176" viewBox="0 0 400 176">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d5a48"/>
+      <stop offset="100%" stop-color="#4a9a78"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="176" fill="url(#g)"/>
+  <text x="388" y="18" text-anchor="end" fill="rgba(255,255,255,0.7)" font-family="system-ui,sans-serif" font-size="9" font-weight="600" letter-spacing="0.5">PLACEHOLDER</text>
+  <text x="200" y="77" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="17" font-weight="650">Book a meeting without the</text>
+  <text x="200" y="99" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="17" font-weight="650">email ping-pong</text>
+  <text x="200" y="148" text-anchor="middle" fill="rgba(255,255,255,0.75)" font-family="system-ui,sans-serif" font-size="11">placeholder · sample creative</text>
+</svg>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="LODA — curated B2B LinkedIn ad examples. Filter by company, industry, and ad type." />
+  <title>LODA | LinkedIn ad examples | inspiration.b2brizz.com</title>
+  <link rel="stylesheet" href="assets/css/site.css" />
+</head>
+<body>
+  <header>
+    <a class="logo-link" href="https://b2brizz.com" aria-label="B2BRizz home">
+      <img class="logo" src="assets/brand/b2brizz-logo-negative.svg" alt="B2BRizz" />
+    </a>
+    <div class="subdomain-chip">inspiration.b2brizz.com</div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <h1>LODA</h1>
+        <p class="hero-intro">Welcome to LODA (LinkedIn ad examples in Coda) the very-curated, always evolving, filter-heavy, examples of LinkedIn ads that help you sell more.</p>
+        <p class="hero-count">Below you’ll find <strong id="hero-count">0</strong> B2B (Mostly SaaS &amp; Services) LinkedIn ad examples by industry and ad type.</p>
+        <p class="hero-caveat">I (Tim, LODA creator) am not perfect, if I categorized something wrong, missing details, or think I should add something that would be helpful, please DM me on <a href="https://www.linkedin.com/in/tadavidson41" target="_blank" rel="noopener noreferrer">LinkedIn</a> or email me at <a href="mailto:tim@b2brizz.com">tim@b2brizz.com</a>.</p>
+      </div>
+      <aside class="quick-faq" aria-label="Quick FAQ">
+        <div class="quick-faq-title">
+          <span class="quick-faq-icon" aria-hidden="true">📘</span>
+          <strong>Quick FAQ</strong>
+        </div>
+        <ul class="quick-faq-list">
+          <li><a href="https://www.loom.com/share/ce2da7c38cb6486eb88c6ebdbb01dd3e" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">🎥</span> 1-minuteish how to video</a></li>
+          <li><a href="https://docs.superhuman.com/d/Loda-Awesome-Linkedin-Ad-Examples-on-Coda_dhDGblTqLJQ/Ad-Type-Tags-Explained_susc22CT" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">🏷️</span> Ad Types Explained</a></li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+  <div class="summary-wrap">
+    <div class="summary-bar" id="summary-bar" aria-live="polite">
+      <div class="summary-stats">
+        <div class="summary-stat"><strong id="summary-examples">0</strong> examples</div>
+        <div class="summary-stat"><strong id="summary-companies">0</strong> companies</div>
+        <div class="summary-stat"><strong id="summary-industries">0</strong> industries</div>
+        <div class="summary-stat"><strong id="summary-adtypes">0</strong> ad types</div>
+      </div>
+    </div>
+    <p class="filter-hint">Filter below by “company”, “industry”, and/or “ad type”.</p>
+  </div>
+
+  <div class="filter-wrap">
+    <div class="filter-bar">
+      <label>Company
+        <select id="filter-company" aria-label="Company filter">
+          <option value="">All companies</option>
+        </select>
+      </label>
+      <label>Industry
+        <select id="filter-industry" aria-label="Industry filter">
+          <option value="">All industries</option>
+        </select>
+      </label>
+      <label>Ad Type
+        <select id="filter-adtype" aria-label="Ad Type filter">
+          <option value="">All types</option>
+        </select>
+      </label>
+      <label>Search
+        <input id="filter-search" type="search" placeholder="Search examples…" aria-label="Search" autocomplete="off" />
+      </label>
+      <div class="count"><strong id="count-num">0</strong> examples</div>
+    </div>
+  </div>
+
+  <div class="gallery-wrap">
+    <div class="gallery" id="gallery" aria-live="polite"></div>
+  </div>
+
+  <footer>
+    <div>
+      <a href="https://b2brizz.com">b2brizz.com</a>
+      <span style="opacity:.4; margin: 0 8px;">·</span>
+      <span class="footer-note">inspiration.b2brizz.com</span>
+    </div>
+    <div class="footer-note">LinkedIn Open Database of Ads (LODA)</div>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
